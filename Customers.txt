@@ -1,0 +1,4 @@
+1, House Randall, Francois, Randall, 0757388392, gmail, street 5
+2, Flat Ryan, Stan, Ryan, 0758832275, gmail, street 11
+4, Hotel Wick, John, Wick, 911, gmail, street 450
+90, Motel Visser, Chane, Visser, 0758398873, gmail, street 112

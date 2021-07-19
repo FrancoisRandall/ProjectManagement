@@ -1,0 +1,4 @@
+1, House Randall, Chane, Visser, 0874628876, gmail, street 6
+2, Flat Ryan, mike, Well, 09857239987, gmail, street 399
+4, Hotel Wick, Tony, Stark, 9191919191, gmail, street 44444
+90, Motel Visser, Kyle, Johnson, 08628633, gmail, street 56

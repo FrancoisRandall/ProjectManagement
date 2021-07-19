@@ -1,0 +1,4 @@
+1, House Randall, Mark, Randall, 0768763566, gmail, street 37
+2, Flat Ryan, John, Kramer, 0746629974, gmail, 2
+4, Hotel Wick, Sean, Myers, 0758399111, gmail, street 555
+90, Motel Visser, Mike, Pens, 0852968821, gmail, street 3332
